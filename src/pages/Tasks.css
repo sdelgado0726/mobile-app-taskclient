@@ -1,0 +1,21 @@
+.add{
+    font-size: 75px;
+    float: right;
+    padding: 5px;
+}
+
+.text {
+    padding-left: 15px;
+}
+
+.inputLength {
+    width: 300px;
+}
+
+.title {
+    padding-left: 10px;
+}
+
+.createTask {
+    text-align: center;
+}
